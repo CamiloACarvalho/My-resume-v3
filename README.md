@@ -8,6 +8,10 @@ Link para o meu site: https://camiloacarvalho.github.io/My-resume-v3/
 
 Agora não da mais erro, porém só aparece o README.md.
 
-Alguém consegue me ajudar por favor?!
+Alguém consegue me ajudar por favor?! 🥺
+
+#
+
+<div align="center">
 
 ![DogTristeGIF](https://user-images.githubusercontent.com/111397870/191525465-aa7611ab-9b4c-4d7c-8010-9eecd65a5611.gif)
